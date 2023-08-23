@@ -10,7 +10,7 @@ Welcome to the Temperature Converter project developed during my internship at B
 
 ## Demo
 
-Check out the [Live Demo](https://your-live-demo-link) to see the Temperature Converter in action.
+Check out the [Live Demo](https://sujitrakshe.github.io/Temperature-Converter/) to see the Temperature Converter in action.
 
 ## Getting Involved
 
